@@ -13,7 +13,7 @@
 - Host your page with [GitHub Pages](https://pages.github.com/) for public viewing
 - Edit your code at [CodePen](https://codepen.io/)
 - Use JavaScript to introduce logic and interactivity to your page
-- Use CSS and [Google Fonts]() to style your page
+- Use CSS and [Google Fonts](https://fonts.google.com/) to style your page
 
 ## Extensions
 
